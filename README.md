@@ -4,21 +4,13 @@ Power BI Project
 
 Live Interactive Dashboard Link : https://tinyurl.com/LiveHospitalityProjectLink
 
+Project Video Presentation Link : https://tinyurl.com/ProjectVideoPresentation
 
 📚 𝗚𝗮𝗶𝗻𝗲𝗱 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹𝗶𝘁𝘆 𝗗𝗼𝗺𝗮𝗶𝗻 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 :
 	
 Through this project, I've acquired extensive insights into the hospitality industry, delving into its operational dynamics and essential key indicators pivotal for dashboard preparation and extracting informative insights. I've gained understanding on industry trends over time, optimal pricing strategies to stay competitive, and the critical role of occupancy percentage in driving revenue growth. Overall, this project has significantly broadened my expertise and thinking within the hospitality domain.
 
 ✅ 𝗞𝗣𝗜𝘀 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 :
-
-➡️ Revenue : Total of Realised Revenue
-➡️ RevPar : Revenue per Available Rooms
-➡️ DSRN : Daily Sellable Rooms Per Night 
-➡️ DBRN : Daily Booked Rooms Per Night 
-➡️ DURN : Daily Utilized Rooms Per Night 
-➡️ Occupancy % : Occupied Rooms As per Room Avaibility 
-➡️ ADR : Average Daily Rate
-➡️ Realisation : Total of only Checked Out 
 
 - **Revenue**: Total of Realised Revenue
 - **RevPar**: Revenue per Available Rooms
